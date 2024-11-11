@@ -48,7 +48,7 @@ __Melhoria 1__, _Melhoria 2_
 
 Perfil: https://www.github.com/felipperrosa
 
-[![Logo do Python](../ecommerce/img/Python-logo-notext.svg.png)](https://www.github.com/felipperrosa)
+[![Logo do Python](img/Python-logo-notext.svg.png)](https://www.github.com/felipperrosa)
 
 ## Código da função soma 
 
