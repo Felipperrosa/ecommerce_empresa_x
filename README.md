@@ -2,7 +2,6 @@
 Este é um **e-commerce** para a *empresa X*, feito em PHP E MySQL.
 
 
-
 ## Funcionalidades: 
 
 _Checkout, **Tela de Produto**, Catálogo, Home com banner_
@@ -40,5 +39,30 @@ __Melhoria 1__, _Melhoria 2_
 
 ![Logo do Python](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
 
+## Links interessantes:
+
+[Google](https://www.google.com)
+
+[https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+
+Perfil: https://www.github.com/felipperrosa
+
+[![Logo do Python](../ecommerce/img/Python-logo-notext.svg.png)](https://www.github.com/felipperrosa)
+
+## Código da função soma 
+
+```javacript
+function soma(a, b) {
+    return a + b;
+}
+```
+
+## Lista de Tarefas a fazer:
+
+- [x] Área de membros
+- [ ] Login diferente para grupos de cliente
+- [ ] Integração com outros pagamentos 
+- [x] Sistema de bônus primeira compra  
 
 
