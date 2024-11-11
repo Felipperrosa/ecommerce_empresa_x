@@ -32,7 +32,7 @@ __Melhoria 1__, _Melhoria 2_
 
 #### Imagem Local
 
-![Logo do Python](../ecommerce/img/Python-logo-notext.svg.png)
+![Logo do Python](img/Python-logo-notext.svg.png)
 
 #### Imagem Externa
 
